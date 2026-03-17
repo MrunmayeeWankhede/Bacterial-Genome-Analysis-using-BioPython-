@@ -31,21 +31,26 @@ Detailed analysis, methods and code are available in the Jupyter Notebook.
 
 ## ⬇️ Download Genome
 #### create data directory if it doesn't exist
-mkdir -p data
+```mkdir -p data```
 
 #### download genome FASTA file
-curl https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/063/585/GCF_000063585.1_ASM6358v1/GCF_000063585.1_ASM6358v1_genomic.fna.gz \
+```curl https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/063/585/GCF_000063585.1_ASM6358v1/GCF_000063585.1_ASM6358v1_genomic.fna.gz \
   -o data/GCF_000063585.1_ASM6358v1_genomic.fna.gz
+```
 
 #### unzip the genome file
+```
 gunzip data/GCF_000063585.1_ASM6358v1_genomic.fna.gz
+```
 
 ## ▶️ Reproducing the Analysis
 
 #### 1. Clone the repository
 
+```
 git clone https://github.com/yourusername/Bacterial-Genome-Analysis-using-BioPython-.git
 cd Bacterial-Genome-Analysis-using-BioPython-
+```
 
 #### 2. Ensure the genome file is in the data/ folder (see steps above).
 
