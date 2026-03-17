@@ -29,7 +29,7 @@ Detailed analysis, methods and code are available in the Jupyter Notebook.
 | RefSeq Assembly | GCF_000063585.1                          |
 | Source          | NCBI RefSeq                              |
 
-## ⬇️ Downlaod Genome
+## ⬇️ Download Genome
 #### create data directory if it doesn't exist
 mkdir -p data
 
