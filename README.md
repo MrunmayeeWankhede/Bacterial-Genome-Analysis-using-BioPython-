@@ -78,7 +78,7 @@ CSV Output Files
 
 ## 🗂️ Repository Structure
 ```
-Bacterial-Genome-Analysis-using-BioPython/
+Bacterial-Genome-Analysis-using-BioPython-/
 ├── Final Project PCB - 03701.ipynb
 ├── Project_Report.pdf
 ├── data/
