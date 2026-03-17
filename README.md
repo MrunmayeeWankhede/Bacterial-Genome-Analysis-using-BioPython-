@@ -44,8 +44,8 @@ gunzip data/GCF_000063585.1_ASM6358v1_genomic.fna.gz
 
 #### 1. Clone the repository
 
-git clone https://github.com/yourusername/bacterial-genome-analysis.git
-cd bacterial-genome-analysis
+git clone https://github.com/yourusername/Bacterial-Genome-Analysis-using-BioPython-.git
+cd Bacterial-Genome-Analysis-using-BioPython-
 
 #### 2. Ensure the genome file is in the data/ folder (see steps above).
 
