@@ -15,7 +15,7 @@ The workflow includes:
 Detailed analysis, methods and code are available in the Jupyter Notebook.
 
 ## 📁 Files in this Repository
-* Final Project PCB - 03701.ipynb - Complete jupyter notebook with pipeline, code, and analysis
+* Final Project PCB - 03701.ipynb - Complete Jupyter Notebook with pipeline, code, and analysis
 * Final Project Report PCB - 03701.pdf - Detailed report with methodology, results, and discussion
 * data/ - Genome FASTA file (GCF_000063585.1_ASM6358v1_genomic.fna)
 * outputs/ - CSV files containing ORFs (all_orfs.csv) and protein sequences (all_proteins.csv)
