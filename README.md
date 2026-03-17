@@ -86,6 +86,7 @@ Bacterial-Genome-Analysis-using-BioPython-/
 ├── outputs/
 │   ├── all_orfs.csv
 │   └── all_proteins.csv
+├── LICENSE
 └── README.md
 ```
 
