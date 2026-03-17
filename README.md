@@ -79,13 +79,13 @@ CSV Output Files
 ## 🗂️ Repository Structure
 ```
 Bacterial-Genome-Analysis-using-BioPython-/
-├── Final Project PCB - 03701.ipynb
-├── Final Project Report PCB - 03701.pdf
 ├── data/
 │   └── GCF_000063585.1_ASM6358v1_genomic.fna
 ├── outputs/
 │   ├── all_orfs.csv
 │   └── all_proteins.csv
+├── Final Project PCB - 03701.ipynb
+├── Final Project Report PCB - 03701.pdf
 ├── LICENSE
 └── README.md
 ```
