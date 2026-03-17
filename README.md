@@ -80,7 +80,7 @@ CSV Output Files
 ```
 Bacterial-Genome-Analysis-using-BioPython-/
 ├── Final Project PCB - 03701.ipynb
-├── Project_Report.pdf
+├── Final Project Report PCB - 03701.pdf
 ├── data/
 │   └── GCF_000063585.1_ASM6358v1_genomic.fna
 ├── outputs/
